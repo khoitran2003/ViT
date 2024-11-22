@@ -131,3 +131,5 @@ Example:
 ```bash
 python predict.py --model_path ./output/ViTBase_best.pth --image_path ./data/test/cat.2000.jpg --data_path ./oxford_pet/
 ```
+
+THANK YOU FOR WATCHING!
