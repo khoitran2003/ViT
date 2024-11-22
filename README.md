@@ -108,7 +108,7 @@ There are some `important` arguments for the script you should consider when run
 
 Example:
 
-You want to train a model in 10 epochs with Oxford_pet dataset, 37 classes:
+You want to train a model in 200 epochs with Oxford_pet dataset, 37 classes:
 
 ```bash
 !python train.py --train-folder ${oxford_pet/train} --valid-folder ${oxford_pet/val} --num-classes 37 --patch-size 16 --image-size 224 --lr 0.0001 --epochs 200
