@@ -8,7 +8,7 @@ Run it on VSCode:
 <img src= "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" width=80>
 </a>
 
-![Vision transformer](https://cdn-lfs.hf.co/datasets/huggingface/documentation-images/142f1b9c07445fbc30f72e4e8e629a9cf11488a78ca6babc8bdb49c11e42b672?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27vit_architecture.jpg%3B+filename%3D%22vit_architecture.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1732502749&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjUwMjc0OX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9kYXRhc2V0cy9odWdnaW5nZmFjZS9kb2N1bWVudGF0aW9uLWltYWdlcy8xNDJmMWI5YzA3NDQ1ZmJjMzBmNzJlNGU4ZTYyOWE5Y2YxMTQ4OGE3OGNhNmJhYmM4YmRiNDljMTFlNDJiNjcyP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiZyZXNwb25zZS1jb250ZW50LXR5cGU9KiJ9XX0_&Signature=MlB3zQJSG9yNM%7E16wWUiGcN1hxVGdXU6qtD%7ES3Bj9OZdSG2LESoiior4DJKEFTS4dSLh-riufefe6kjjoKohZ-t8B1tafmxwIdp1xZYU-d1EdDrPeW4uFaAltQ%7EVIoHOnhwlP8UsMb8W8v0z672-OlXpzw8SOsaRm4OarCijrj1DPcGeWM%7EChCUgCMtdaRUjT%7EOFbn4myxF3VVeSVrZTvglgm7xdB16WmIzUR2kZIJjpjDw4MviaJDYVyXDW79MlvpX5%7ExRs9pd3IVXdbvmnY3Xlag3zGIreIjYH7rFjyZZ0qDWqun%7EKlqqK8EQ0I8mICwx6U1agyyyP-FZzZvWyRw__&Key-Pair-Id=K3RPWS32NSSJCE)
+![Vision transformer](https://production-media.paperswithcode.com/methods/Screen_Shot_2021-01-26_at_9.43.31_PM_uI4jjMq.png)
 
 Author:
 
